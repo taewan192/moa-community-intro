@@ -1,6 +1,8 @@
 # 연동 방식과 데이터 저장 구조
 
-[소개](../README.md) · [기능 안내](features.md)
+[소개](../README.md) · [기능 안내](features.md) · [페이지 구성](pages.md) · [41개 테이블](database.md) · [개발·운영](development-and-operations.md)
+
+문서 기준: **2026-11-27**.
 
 ## 1. 화면과 서버
 
